@@ -1,8 +1,8 @@
-# Terms of Service for Oliver Productivity Assistant
+# Terms of Service for Oliver the Content Poster
 
 _Last Updated: 2025_Dec
 
-Oliver Productivity Assistant ("Oliver") is a personal, private automation 
+Oliver the Content Poster ("Oliver") is a personal, private automation 
 tool created and used exclusively by me to manage my own content creation 
 workflow. This tool integrates with certain APIs, such as TikTok, to automate 
 content uploads and scheduling tasks.
