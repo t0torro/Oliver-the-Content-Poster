@@ -14,6 +14,7 @@ temporarily handled during automation.
 ## 2. How Information Is Used
 Information processed by Oliver is used exclusively for:
 - Uploading videos to my own TikTok account
+- Uploading videos to my own Pinterest account
 - Scheduling and managing personal content
 - Triggering workflows through n8n and Telegram
 
@@ -26,6 +27,7 @@ needed for posting content.
 
 ## 5. Third-Party Services
 Oliver may interact with services including:
+- Pinterest API
 - TikTok APIs
 - Telegram
 - n8n automation workflows
